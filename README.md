@@ -34,7 +34,7 @@ Widget Component based lifecyles
  
 
 
-### What is this boilerpvlate template for? 
+### What is this boilerplate template for? 
 
 Imagine just running a command to get started without painfully integrating the tasks on the frontend build environments profiles like development and production release.
 
